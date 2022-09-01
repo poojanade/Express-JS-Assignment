@@ -3,11 +3,11 @@ const app = express();
 const port = process.env.PORT || 5000;
 const data = require("./data");
 
-app.get("/home",(req,res)=>{
-    res.send("detail");
-});
+// app.get("/home",(req,res)=>{
+//     res.send("detail");
+// });
 
-app.get("/data",(req,res)=>{
+app.get("/",(req,res)=>{
     res.json(data);
 });
 
