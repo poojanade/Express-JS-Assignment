@@ -1,5 +1,5 @@
-module.exports = [
-    {
+    module.exports = [
+        {
         "results": [
         "Rajesh",
         "Ramesh",
@@ -7,4 +7,4 @@ module.exports = [
         "Sanjana"
         ]
        }
-]
+    ]
