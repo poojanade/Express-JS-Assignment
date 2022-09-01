@@ -1,9 +1,9 @@
 {
   "name": "problem2",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "problem-2.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node problem-2.js"
   },
   "keywords": [],
   "author": "",
