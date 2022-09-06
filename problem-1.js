@@ -6,4 +6,5 @@ app.get('/student/getdetail', (req, res) => {
     res.send(data);
 });
 
+
 app.listen(5000);
